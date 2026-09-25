@@ -28,7 +28,7 @@ function Home() {
       </div>
 
       <div className="div5">
-        <img src="clg.jpg" className="img" />
+        <img src="/clg.jpg" className="img" />
       </div>
     </>
   );

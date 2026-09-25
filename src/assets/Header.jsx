@@ -10,7 +10,7 @@ return <>
       </div>
 
       <div className="div2">
-        <img src="cl.png" class="img2"/>
+        <img src="/cl.png" className="img2"/>
       </div>
 
       <div className="div3">
