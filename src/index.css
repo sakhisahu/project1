@@ -1,0 +1,164 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #f8f8f8;
+}
+
+.div {
+  background-color: rgb(3, 47, 3);
+  color: white;
+  width: 50%;
+  height: 50px;
+  float: left;
+}
+.div1
+{
+background-color: rgb(3, 47, 3);
+color: white;
+width: 50%;
+text-align: center;
+float:left;
+}
+.p
+{
+  margin-left: 60px;
+}
+.p2
+{
+color: rgb(2, 52, 2);
+margin-left: 90px;
+margin-top: 220px;
+ font-size: 80px;
+ font-family: Arial, Helvetica, sans-serif;
+}
+.p3
+{
+color: rgb(158, 158, 12);
+font-size: 80px;
+margin-top:220 px;
+margin-left: 90px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.p4
+{
+  color: grey;
+  margin-left: 90px;
+  margin-top: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.div2
+{
+float: left;
+width: 50%;
+background-color: rgb(8, 73, 8);
+color: white;
+height: 70px;
+}
+.img2
+{
+  height: 85px;
+  width: 120px;
+  margin-left: 50px;
+}
+.div3
+{
+float: left;
+width: 50%;
+background-color: rgb(8, 73, 8);
+color: white;
+height: 70px;
+}
+.div4
+{
+float: left;
+width: 50%;
+background-color: beige;
+height: 530px;
+}
+.t
+{
+  color: rgb(3, 44, 3);
+  align-items: center;
+ 
+ 
+}
+.c
+{
+  color: rgb(228, 136, 23);
+    
+ 
+}
+.div5
+{
+float: left;
+width: 50%;
+background-color: bisque;
+height: 530px;
+}
+.img
+{
+  width: 100%;
+  height: 530px;
+}
+.y
+{
+  color:white;
+  display: inline-block;
+  margin-top: 30px;
+  text-decoration: none;
+
+}
+.y1
+{
+  color: white;
+  margin-left: 20px;
+   text-decoration: none;
+}
+.y2
+{
+  color: white;
+  margin-left: 20px;
+   text-decoration: none;
+ 
+}
+.y3
+{
+  color: white;
+  margin-left: 20px;
+   text-decoration: none;
+}
+.y4
+{
+  color: white;
+  margin-left: 20px;
+   text-decoration: none;
+}
+.y5
+{
+  
+  margin-left: 20px;
+   text-decoration: none;
+   background-color:  rgb(8, 73, 8);
+   color: white;
+   border-color: white;
+   box-sizing: border-box;
+}
+.bu2
+{
+  margin-left: 20px;
+ background-color:  rgb(8, 73, 8);
+  border-color: white;
+  width: 120px;
+  width: 120px;
+  height: 40px;
+
+}
+.bu
+{
+  margin-left: 90px;
+  margin-top: 100px;
+  background-color: rgb(8, 73, 8);
+  border: none;
+  height: 50px;
+  width: 200px;
+}
